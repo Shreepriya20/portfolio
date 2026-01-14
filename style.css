@@ -84,6 +84,16 @@ h2 {
     padding-left: 20px;
 }
 
+.highlights ul {
+     display: inline-block;
+    background-color: none;
+    color: #333;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin-top: 5px;
+    text-decoration: none;
+}
+
 /* Contact */
 .contact a {
     display: inline-block;
